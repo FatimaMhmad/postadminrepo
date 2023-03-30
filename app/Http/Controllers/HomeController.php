@@ -9,6 +9,7 @@ class HomeController extends Controller
     public function home()
     {
         //this is home controller
+        //edit branch
         return view('admin.layout.app');
     }
 }
