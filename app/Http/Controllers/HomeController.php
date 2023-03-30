@@ -10,7 +10,7 @@ class HomeController extends Controller
     {
         //this is home controller
         //edit branch
-        //after merge
+        //after merge to branch
         return view('admin.layout.app');
     }
 }
